@@ -1,6 +1,6 @@
   <div align="center">
     <a href="">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&separator=%3C&lines=System.out.print(Hello%2CWorld);" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&separator=%3C&lines=System.out.print(Hello%2CWorld);" alt="Typing SVG" /></br>
      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </a>
   </div>
