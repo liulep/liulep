@@ -11,12 +11,16 @@
 <br/>
 
 - 💬 Hello everyone, I am liulep classmate.
+
 - 👨‍🎓 A post-00s person.
+
 - 📍 长沙(CS).
+
 - 👩‍💻 An outgoing student.
+
 - 🎖️ QQ: 2422669375.
+
 - 🤔 Come on!,Come on!,Come on!
-- 📫 [2422669375@qq.com](2422669375@qq.com).<br/>
   <br/>
 <!--
 **liulep/liulep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
