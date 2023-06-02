@@ -10,11 +10,11 @@
 
 <br/>
 
-- 💬 A post-00s person who loves software development.
-- 👨‍🎓 Hello everyone, I am liulep classmate.
+- 💬 Hello everyone, I am liulep classmate.
+- 👨‍🎓 A post-00s person.
 - 📍 长沙(CS).
-- 👩‍💻 An outgoing student
-- 🎖️ QQ: 2422669375
+- 👩‍💻 An outgoing student.
+- 🎖️ QQ: 2422669375.
 - 🤔 Come on!,Come on!,Come on!
 - 📫 [2422669375@qq.com](2422669375@qq.com).<br/>
   <br/>
