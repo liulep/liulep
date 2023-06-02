@@ -1,8 +1,8 @@
-<div>
-  <h1 align="center"><a href="https://sunguoqi.com/"><img src="https://readme-typing-svg.herokuapp.com/?lines='System.out.println(%22Hello%2C%20World!%22);'&center=true&size=27"></a></h1>
-  <img style="margin: 0 auto;" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-</div>
-
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ssystem.out.println(%22Hello%2C%20World%22);你好呀！&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 <!--
 **liulep/liulep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
