@@ -15,8 +15,6 @@
 
 - 👩‍💻 An outgoing student.
 
-- 🎖️ QQ: 2422669375.
-
 - 🤔 Come on!,Come on!,Come on!
 
 - 🌱 2023 Running.
