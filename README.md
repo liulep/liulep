@@ -20,6 +20,7 @@
 
 - 🤔 Come on!,Come on!,Come on!
   <br/>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 <!--
 **liulep/liulep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
