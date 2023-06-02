@@ -1,7 +1,5 @@
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C%20World%22);&center=true&size=88" alt="Typing SVG" />
-    </a>
+    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&separator=%3C&lines=System.out.print(Hello%2CWorld);" alt="Typing SVG" /></a>
   </div>
 <!--
 **liulep/liulep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
