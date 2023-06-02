@@ -8,8 +8,6 @@
 
 <img width="440" align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 
-<br/>
-
 - 💬 Hello everyone, I am liulep classmate.
 
 - 👨‍🎓 A post-00s person.
