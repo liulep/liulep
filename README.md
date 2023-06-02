@@ -1,10 +1,8 @@
-### Hi there 👋
+### I'm liulep .👋
 
   <div align="center">
     <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&separator=%3C&lines=System.out.print(Hello%2CWorld);%3C%F0%9F%99%8B+Hello%EF%BC%8CBoys+and+Girls." alt="Typing SVG" /></a>
 </div>
-
-### I'm liulep .
 
 </br>
 
