@@ -17,8 +17,6 @@
 
 - 🤔 Come on!,Come on!,Come on!
 
-- 🌱 2020-2023.
-
 - 🌈 <a href="https://blog.liulep.com">个人博客</a>
   <br/>
   <br/>
